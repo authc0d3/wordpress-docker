@@ -11,7 +11,7 @@ The images used in the docker-compose are:
 
 ## Volumes
 
-To persist the data and files you must create the following folder structure:
+To persist data and files you must create the following folder structure:
 
 - /mysql
 - /src
