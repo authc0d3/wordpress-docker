@@ -26,3 +26,7 @@ Run this command to start the container (it will create the container if not exi
 ```
 > docker-compose up
 ```
+
+When running you can access to your wordpress here: [http://localhost:8000](http://localhost:8000)
+
+To manage the database you can access here: [http://localhost:8080](http://localhost:8080)
